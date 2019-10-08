@@ -15,13 +15,13 @@
    Behaviour:
    *The program should:*
    _**Encryption;**_
-| Input  | Key | Output |
-| :----: |:----:|:----:|
+| Input | Key | Output |
+| ----  |:----:|----: |
 | abc | 2 | cde |
 | Hello | 1 | Iffmp |
    _**Decryption;**_
-| Input  | Key | Output |
-| :----: |:----:|:----:|
+| Input | Key | Output |
+| ---- |:----:|----:|
 | cde | 2 | abc |
 | Iffmp | 1 | Iffmp |
 
