@@ -47,3 +47,18 @@
     $ cd src/main/java
     $ java App
 
+ ### Running Tests;
+  **This is a sample test that tests if the getter method works:**
+  ```
+  @Test
+  public void ceaseCipher_getmWord_String(){
+    CeaserCipher testCeaser = new CeaserCipher("Hell0",1);
+    assertEquals("Hello", testCeaser.getmWord());
+  }
+  ```
+## License:
+  MIT License
+    Copyright (c) 2018 **Sharon Ivy Kendi M.**
+  
+## Support and contact details:
+  e-mail; kendishivy72@gmail.com
