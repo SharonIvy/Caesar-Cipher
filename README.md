@@ -39,4 +39,11 @@
   * Run the command;
   'git clone https://github.com/SharonIvy/githubsearch.git' to clone
 
+## Set-up process:
+  * Having cloned this repository to your local machine navigate to the folder you cloned into and open the terminal from there.
+
+  * Run the following commands on your LInux command line:
+    ```
+    $ cd src/main/java
+    $ java App
 
