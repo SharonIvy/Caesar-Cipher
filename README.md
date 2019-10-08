@@ -60,3 +60,5 @@
   MIT License
     Copyright (c) 2018 **Sharon Ivy Kendi M.**
   
+## Support and contact details:
+  e-mail; kendishivy72@gmail.com
