@@ -13,15 +13,18 @@
 ## Specifications:
   **(using Behaviour Driven Development )**
    Behaviour:
+   
    *The program should operate as follows:*
+   
    _**Encryption example;**_
-Input: abc
-Key: 2
-Expected output: cde
+   Input: abc,
+   Key: 2,
+   Expected output: cde
+   
    _**Decryption example;**_
-Input: cde
-Key: 2
-Expected output: abc
+   Input: cde,
+   Key: 2,
+   Expected output: abc
 
 ## Project Pre-requisites:
   You need the following installed on your machine
