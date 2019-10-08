@@ -13,17 +13,15 @@
 ## Specifications:
   **(using Behaviour Driven Development )**
    Behaviour:
-   *The program should:*
-   _**Encryption;**_
-| Input         | Key           | Output  |
-| ------------- |:-------------:| -------:|
-| abc           | 2             | cde     |
-| Hello         | 1             | Iffmp   |
-   _**Decryption;**_
-| Input         | Key           | Output  |
-| ------------- |:-------------:| -------:|
-| Iffmp         | 1             | Hello   |
-| cde           | 2             | abc     |
+   *The program should operate as follows:*
+   _**Encryption example;**_
+Input: abc
+Key: 2
+Expected output: cde
+   _**Decryption example;**_
+Input: cde
+Key: 2
+Expected output: abc
 
 ## Project Pre-requisites:
   You need the following installed on your machine
