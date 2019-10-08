@@ -6,7 +6,7 @@
 ## DESCRIPTION:
    A Caesar cipher is a type of substitution in which each letters are shifted  by a certain key, that is, a certain number of places down the alphabet.
 
-## Built With:
+#### Built With:
   * [Java](https://www.java.com/)
   * [Intellij Idea](https://www.jetbrains.com/idea/)
 
@@ -49,7 +49,6 @@
     ```
     $ cd src/main/java
     $ java App
-
  ### Running Tests;
   **This is a sample test that tests if the getter method works:**
   ```
