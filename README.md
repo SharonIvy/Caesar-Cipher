@@ -4,7 +4,7 @@
  ### BY: Sharon Ivy Kendi M.
 
 ## DESCRIPTION:
-   A Caesar cipher is a type of substitution in which each letters are shifted a certain number of places also known as a key, down the alphabet.  For example, with a shift of 1, A would be replaced by B, B would become C, and so on.
+   A Caesar cipher is a type of substitution in which each letters are shifted  by a certain key, that is, a certain number of places down the alphabet. For example, with a shift of 1, A would be replaced by B, B would become C, and so on.
 
 ## Built With:
   * [Java](https://www.java.com/)
