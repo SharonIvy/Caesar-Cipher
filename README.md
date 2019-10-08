@@ -32,4 +32,11 @@
 
 ## Demo:
   <img src="./src/img/screenshot.png" width="600px"/>
+  
+## Project setup requirements:
+  * See pre-requisites
+  * Fork this repository
+  * Run the command;
+  'git clone https://github.com/SharonIvy/githubsearch.git' to clone
+
 
