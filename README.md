@@ -12,7 +12,6 @@
 
 ## Specifications:
   **(using Behaviour Driven Development )**
-   Behaviour:
    
    *The program should operate as follows:*
    
