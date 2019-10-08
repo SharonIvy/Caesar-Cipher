@@ -21,7 +21,7 @@
   | Take a key entered by user   | 1 | You entered: 1 |
   | Decrypt the entered word using the given key   | Svo | Run |
 
-## Pre-requisites:
+## Project Pre-requisites:
   You need the following installed on your machine
     - Java
     - Java Development Kit(JDK)
@@ -30,7 +30,7 @@
     $ java -version
     ```
 
-## Demo:
+## Project Demo:
   <img src="./src/img/screenshot.png" width="600px"/>
   
 ## Project setup requirements:
@@ -41,7 +41,6 @@
 
 ## Set-up process:
   * Having cloned this repository to your local machine navigate to the folder you cloned into and open the terminal from there.
-
   * Run the following commands on your LInux command line:
     ```
     $ cd src/main/java
