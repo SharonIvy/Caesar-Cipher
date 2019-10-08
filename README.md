@@ -21,3 +21,15 @@
   | Take a key entered by user   | 1 | You entered: 1 |
   | Decrypt the entered word using the given key   | Svo | Run |
 
+## Pre-requisites:
+  You need the following installed on your machine
+    - Java
+    - Java Development Kit(JDK)
+  To confirm run the following command on your Linux command line:
+    ```
+    $ java -version
+    ```
+
+## Demo:
+  <img src="./src/img/screenshot.png" width="600px"/>
+
